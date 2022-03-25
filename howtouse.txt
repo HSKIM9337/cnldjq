@@ -1,0 +1,4 @@
+1. git clone https://github.com/HSKIM9337/cnldjq.git
+2. 튜토리얼 디렉토리로 이동하고
+3. git add 이름
+4. git commit -m "할말"
