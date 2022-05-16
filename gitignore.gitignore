@@ -296,6 +296,7 @@ $RECYCLE.BIN/
 *.msp
 
 .idea/
+migrations/
 # Windows shortcuts
 *.lnk
 
